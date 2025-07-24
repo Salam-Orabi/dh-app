@@ -61,8 +61,8 @@
     "instruction3_part1": "اضغط على زر التسجيل. ثم انطق بصوت واضح",
     "instruction3_bold1": "\"آآآآه\"",
     "instruction3_part2": " لمدة ",
-    "instruction3_bold2": "لا تقل عن 5 ثوانٍ",
-    "instruction3_part3": "بعدها اضغط على زر ايقاف.", 
+    "instruction3_bold2": " لا تقل عن 5 ثوانٍ",
+    "instruction3_part3": " بعدها اضغط على زر ايقاف.", 
     
     "recordButton": "تسجيل",
     "stopButton": "إيقاف",
@@ -94,8 +94,8 @@
     "instruction3_part1": "اضغط على زر التسجيل.",
     "instruction3_bold1": "ثم خذ نفساً عميقاً وازفره",
     "instruction3_part2": " في الهاتف",
-    "instruction3_bold2": " 3 مرات",
-    "instruction3_part3": ".بعد الانتهاء، اضغط على زر ايقاف",
+    "instruction3_bold2": "  3 مرات",
+    "instruction3_part3": " .بعد الانتهاء، اضغط على زر ايقاف",
 
 
     "recordButton": "تسجيل",
